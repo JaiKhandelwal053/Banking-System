@@ -1,16 +1,16 @@
 # Banking Management System
 
-## Created By - SHUBHAM KUMAR
+## Created By - JAI KHANDELWAL
 
 ## Sparks Foundation Internship Project : Basic Banking System 
-# https://spark-bank-system.herokuapp.com/
+
 
 A Web Application used to transfer money between multiple users.  
 
 Stack used :- 
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
-Database : MySQL   
+Database : phpmyadmin   
 
 Database contains two Tables- Users Table & Transaction Table 
 1. User table have basic fields such as name, email & current balance. 
